@@ -28,7 +28,7 @@ Check more screenshots at [preview](https://github.com/NicolaSpadari/nuxtor/blob
 <br />
 
 ## Technologies run-down
-
+testing
 - Nuxt 3 (v4 ready!)
 - Tauri 2
 - NuxtUI v3
